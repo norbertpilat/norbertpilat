@@ -1,5 +1,15 @@
-### Hi there 👋
+## Hi there 👋
+<p align="center">
+My Tech Stack:
+</p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,java,spring,html,js,hibernate,docker,idea,linux,postman,vscode&theme=light" />
+  </a>
+</p>
+
+[![Norbert GitHub stats](https://github-readme-stats.vercel.app/api?username=norbertpilat)
 <!--
 **norbertpilat/norbertpilat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
