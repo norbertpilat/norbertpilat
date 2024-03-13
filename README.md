@@ -9,7 +9,11 @@ My Tech Stack:
   </a>
 </p>
 
-[![Norbert GitHub stats](https://github-readme-stats.vercel.app/api?username=norbertpilat)
+
+  
+![Norbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=norbertpilat&show_icons=true&theme=radical)
+
+
 <!--
 **norbertpilat/norbertpilat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
